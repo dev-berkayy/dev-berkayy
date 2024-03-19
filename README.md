@@ -1,7 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/dev-berkayy/dev-berkayy/master/wave.gif" width="30">
 I am Berkay, People call me Beko, I Feel free to connect with me here:   
 
-SOCİAL  
+SOCİAL 
 
 [![Linkedin Badge](https://img.shields.io/badge/-berkayyıldırım-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkay-yıldırım-75b9a2239/)](https://www.linkedin.com/in/berkay-yıldırım-75b9a2239/)
 [![Instagram Badge](https://img.shields.io/badge/-berkay4yldrm-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/berkay4yldrm/)](https://instagram.com/berkay4yldrm)
