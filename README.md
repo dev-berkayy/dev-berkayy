@@ -18,7 +18,7 @@ I am Berkay, People call me Beko, I Feel free to connect with me here:
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)                                                                                 ## Most Used Languages[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-berkayy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-berkayy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
