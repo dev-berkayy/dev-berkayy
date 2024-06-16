@@ -26,5 +26,8 @@ I am Berkay, People call me Beko, I Feel free to connect with me here:
 
 
 
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-berkayy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
