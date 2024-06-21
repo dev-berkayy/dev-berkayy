@@ -18,11 +18,10 @@ I am Berkay, People call me Beko, I Feel free to connect with me here:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-berkayy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
                                                                                                                 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-  
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="30" width="100"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="30" width="100"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" height="30" width="100">
+
+<img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" height="30" width="100">
+
 
 
 
