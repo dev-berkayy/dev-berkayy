@@ -5,7 +5,6 @@ I am Berkay, People call me Beko, I Feel free to connect with me here:
 [![Instagram Badge](https://img.shields.io/badge/-berkay4yldrm-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/berkay4yldrm/)](https://instagram.com/berkay4yldrm)
 [![Website Badge](https://img.shields.io/badge/-berkayyıldırım-black?style=flat-square&logo=vite&logoColor=white&link=https://berkayy.dev)](https://berkayy.dev)
 
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dev-berkayy&count_private=true&show_icons=true&include_all_commits=true)
 ## ⚡ Technologies 
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="27" width="100"> <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" height="27" width="100">
@@ -17,12 +16,11 @@ I am Berkay, People call me Beko, I Feel free to connect with me here:
                                                                 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-berkayy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-                                                                                                                
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="27" width="100"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="27" width="100"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" height="27" width="100">
 
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" height="27" width="100">
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=dev-berkayy&color=brightgreen)
 
 
 
